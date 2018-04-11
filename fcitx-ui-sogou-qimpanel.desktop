@@ -1,0 +1,23 @@
+[Desktop Entry]
+Name=Sogou Input
+Name[zh_CN]=搜狗输入法
+GenericName=Sogou Input
+GenericName[zh_CN]=搜狗输入法
+Comment=Sogou Input Method is a popular Chinese input method. It's characterized with functions of blurry pinyin, cloud input, automatic correction, colorful skin, long-term association, Simplified and Traditional switching.
+Comment[zh_CN]=搜狗输入法是一款流行的中文输入法，它具有模糊拼音、云端输入、自动纠错、多彩皮肤、长词联想、简繁切换等功能。
+MimeType=application/x-sogouskin;application/x-scel;
+Keywords=ime;imf;input;
+Exec=sogou-qimpanel %U
+Icon=fcitx-sogoupinyin
+Terminal=false
+Type=Application
+Categories=OtherTools;
+StartupNotify=false
+X-GNOME-Autostart-Phase=Applications
+X-GNOME-Autostart-Notify=false
+X-GNOME-Autostart-Delay=2
+X-KDE-autostart-phase=1
+X-KDE-autostart-after=panel
+X-MATE-Autostart-Phase=Applications
+X-MATE-Autostart-Delay=2
+X-MATE-Autostart-Notify=false

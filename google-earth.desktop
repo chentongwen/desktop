@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Earth
+Name[zh_CN]=谷歌地球
+GenericName=3D planet viewer
+GenericName[zh_CN]=谷歌地球
+Comment=Google Earth is a satellite App which can bring you to anywhere on earth. You can view satellite images, maps, terrains and 3D architectures with it. No matter the grand galaxies in outer space or steep valleys under the ocean, they can all be seen with Google Earth. You can view massive geographic data with it, save locations you have seen and share with others.
+Comment[zh_CN]=谷歌地球是一款卫星地图工具，能带您飞往地球上的任何地方，您可以在上面查看卫星图像、地图、地形和3D建筑。不论是外太空的浩渺星系，还是大洋之下的陡峭峡谷，均可一览无余。您可以尽情浏览丰富的地理资料，保存自己游览过的地点并与他人分享。
+Exec=/opt/google/earth/free/google-earth %f
+Terminal=false
+MultipleArgs=false
+Icon=google-earth
+Type=Application
+Categories=Geography;
+MimeType=application/vnd.google-earth.kml+xml;application/vnd.google-earth.kmz;application/earthviewer;application/keyhole

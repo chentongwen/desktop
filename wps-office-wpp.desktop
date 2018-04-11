@@ -1,0 +1,20 @@
+[Desktop Entry]
+Comment=WPS Office is an office software suite self-developed by Kingsoft Co., Ltd., which can achieve the most commonly used features of office, such as text, spreadsheet, presentation and so on. It freely provides massive online document templates, supports to read and export PDF files, and is fully compatible with Microsoft Office 97-2010 formats.
+Comment[zh_CN]=WPS Office是由金山软件股份有限公司自主研发的一款办公软件套件，可以实现办公最常用的文字、表格、演示等多种功能。免费提供海量的在线存储空间及文档模板、支持阅读和输出PDF文件、全面兼容Microsoft Office 97-2010格式。
+Exec=/usr/bin/wpp %f
+GenericName=WPS Presentation
+GenericName[zh_CN]=WPS 演示
+MimeType=application/wps-office.dps;application/wps-office.dpt;application/wps-office.ppt;application/wps-office.pot;application/vnd.ms-powerpoint;application/vnd.mspowerpoint;application/mspowerpoint;application/powerpoint;application/x-mspowerpoint;application/wps-office.pptx;application/wps-office.potx;
+Name=WPS Presentation
+Name[zh_CN]=WPS 演示
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=OtherTools;
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Icon=wps-office-wppmain
+InitialPreference=3
+StartupWMClass=wpp

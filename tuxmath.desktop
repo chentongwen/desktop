@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=TuxMath 
+Name[zh_CN]=TuxMath四则运算
+GenericName[zh_CN]=TuxMath四则运算
+GenericName=Educational math game
+GenericName[de]=Mathe Spiel
+GenericName[ru]=Образовательная игра
+GenericName[fr]=Jeu mathématique
+Comment=TuxMath is a game for kids to practice the four arithmetic operations. In this game, Tux the penguin has to guard his city by solving math problems. TuxMath,  which is popular among primary school students, is very suitable for kids to practice mental arithmetic.
+Comment[pl]=Tux Math - Ucz siê matematyki z Tuxem!
+Comment[de]=Tux Math - Lerne Mathe mit Tux!
+Comment[ru]=Обучение арифметике с пингвином в главной роли
+Comment[fr]=Tux Math - Apprenez les mathématiques avec Tux!
+Comment[zh_CN]=TuxMath是一款练习加减乘除四则运算的小游戏，在这个游戏中，企鹅Tux必须通过解决数学问题来保卫他的城市，非常适合给小朋友练习心算用，也很受小学生喜欢。
+Exec=tuxmath
+Icon=tuxmath
+Type=Application
+Terminal=false
+Categories=Mathematics;
+## X-SuSE-translate=false
+X-Ubuntu-Gettext-Domain=tuxmath

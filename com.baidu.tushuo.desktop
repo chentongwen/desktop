@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Categories=Mathematics;
+Comment=ECharts is a charting and visualization library for browser. With ECharts, users can create diverse, highly-customized visual charts based on Web data with Excel-like operation, presenting the data in a more individual way.
+Comment[zh_CN]=百度图说是一款在线可高度个性化定制的Web数据可视化图表。使用Excel式的操作方式制作样式丰富的图表，使数据呈现的方式更加美观个性。
+Name=Baidu Tushuo
+Name[zh_CN]=百度图说
+GenericName[zh_CN]=百度图说
+Terminal=false
+StartupNotify=false
+Icon=tushuo
+Exec=/opt/codemao-webapps/tushuo/tushuo

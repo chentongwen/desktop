@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Codemao PC
+Comment=Codemao PC is a product focus on teenagers coding education which is suitable for the young people between 6 and 16 years old, It s a platform where the main courses of Codemao will deliver. Users could make their reservations and choose the classes they are interested at and create with their own ideas.
+Exec="/opt/codemao-client/codemao-client" %U
+Terminal=false
+Type=Application
+Icon=codemao-client
+Name[zh_CN]=编程猫上课客户端
+GenericName[zh_CN]=编程猫上课客户端
+Comment[zh_CN]=编程猫电脑客户端是一款面向6-16岁用户的少儿编程教育产品，是在线学习编程猫系列课程的主要平台。用户可在本平台在线约课、趣味学习、自由创作。
+Categories=Computer;

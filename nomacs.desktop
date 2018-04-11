@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Nomacs
+Name[zh_CN]=Nomacs
+GenericName=Image Viewer
+GenericName[zh_CN]=Nomacs图像查看器
+Comment=Nomacs is a image viewer that allows users to view image files in various formats. It supports various image formats, such as BMP, GIF, JPG, PNG, SVG, TIFF, etc. It's also characterized with zooming in/out, slide display, full screen, thumbnail and other functions.
+Comment[zh_CN]=Nomacs是一款图像查看器软件，允许用户查看各种格式的图片文件。它支持多种图片格式，如BMP、GIF、JPG、PNG、SVG、TIFF等，同时也具有放大/缩小、幻灯片显示、全屏、缩略图等功能。
+Exec=nomacs %F
+Terminal=false
+Icon=nomacs
+Type=Application
+Categories=OtherTools;
+MimeType=image/gif;image/jpeg;image/png;image/bmp;image/x-eps;image/x-ico;image/x-portable-bitmap;image/x-portable-graymap;image/x-portable-pixmap;image/x-xbitmap;image/x-xpixmap;
+GenericName[de]=Bildbetrachter
+Comment[de]=Ressourcenschonender, plattformübergreifend verwendbarer Bildbetrachter mit Unterstützung für verschiedenste Formate
+Name[pt]=Nomacs
+GenericName[pt]=Visualizador de imagens
+Comment[pt]=Um visualizador de imagens desenvolvido em Qt

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=celestia-gnome
+Icon=celestia
+X-GNOME-DocPath=
+Terminal=false
+Name=Celestia
+Name[zh_CN]=Celestia天文
+GenericName=Space Simulator
+GenericName[zh_CN]=Celestia天文
+Comment=Celestia is a powerful 3D astronomy program. It can get access to the catalogue of planets and galaxies in NASA image database, allowing you to "overfly" the universe in virtual reality.
+Comment[zh_CN]=Celestia是一款强大的3D天文软件，它能存取NASA影像资料库中的星球与星系目录，让您能看到 “飞越”宇宙的虚拟实境。
+StartupNotify=true
+Categories=Geography;

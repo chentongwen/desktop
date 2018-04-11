@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Chemtool分子结构
+GenericName=Chemtool分子结构
+Name[zh_CN]=Chemtool
+Comment=Chemtool is a program for drawing organic molecules. It offers essentially unlimited undo/redo, two text fonts plus symbols, seven colors, drawing at several zoom scales, and square and hexagonal backdrop grids for easier alignment.
+Comment[zh_CN]=Chemtool是一款绘制有机分子的软件。提供了基本无限的撤销/重做，两种文本字体和符号，七种颜色，以多种缩放比例绘制，以及方形和六边形背景网格等实用功能。
+Type=Application
+Exec=chemtool
+Icon=chemtool
+Terminal= false
+MimeType=application/x-chemtool;
+Categories=Chemistry;

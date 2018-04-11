@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=Youdao Dict
+Name[zh_CN]=有道词典
+Name[zh_TW]=有道詞典
+GenericName[zh_CN]=有道云词典
+Comment=Youdao Dict for Linux is the first Internet commercial translation software under Linux in China. Youdao Dict supports original pronunciation, intelligent screen word-capturing and selecting, picture dictionary and other functions with multi-language precise translation.
+Comment[zh_CN]=有道词典是中国第一个基于Linux下的互联网商业翻译软件。有道词典Linux版可以实现多语言的精准翻译，支持原声发音和智能屏幕取词与划词、图解词典等功能。
+Exec=youdao-dict %f
+Icon=youdao-dict
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Encoding=UTF-8
+Categories=English;OtherTools;
+StartupNotify=false

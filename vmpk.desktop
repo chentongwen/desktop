@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=VMPK
+Name[zh_CN]=VMPK模拟钢琴
+GenericName[zh_CN]=VMPK模拟钢琴
+GenericName=Virtual Piano
+GenericName[de]=Virtuelles Piano
+Exec=vmpk
+Icon=vmpk
+Terminal=false
+Type=Application
+Categories=Music;OtherTools;
+Comment=VMPK is a virtual MIDI piano keyboard application. It can use virtual MIDI piano keyboard to show and play MIDI note in other devices or MIDI file player. Meanwhile, it can send changed program and controller to MIDI synthesizer, defines different standards for devices. It can also be embedded in web pages, do audio-visual training, composer aids and so on.
+Comment[es]=Teclado de piano MIDI virtual 
+Comment[ru]=Виртуальная MIDI Клавиатура-Пианино
+Comment[tr]=Sanal MIDI Piyano Klavyesi
+Comment[zh_CN]=VMPK是一个虚拟MIDI钢琴键盘应用，可以在其他设备或MIDI文件播放器中使用虚拟MIDI钢琴键盘显示播放MIDI音符，同时发送变化的程序和控制器到MIDI合成器中。定义不同的标准提供设备使用。还可以内嵌于网页中、视听训练、作曲辅助等。
