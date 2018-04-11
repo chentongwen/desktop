@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=Google Chrome
+Name=Chrome
 Name[zh_CN]=Chrome浏览器
 
 # Only KDE 4 seems to use GenericName, so we reuse the KDE strings.

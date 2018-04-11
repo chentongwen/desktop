@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Nomacs
-Name[zh_CN]=Nomacs
+Name[zh_CN]=Nomacs图像查看器
 GenericName=Image Viewer
 GenericName[zh_CN]=Nomacs图像查看器
 Comment=Nomacs is a image viewer that allows users to view image files in various formats. It supports various image formats, such as BMP, GIF, JPG, PNG, SVG, TIFF, etc. It's also characterized with zooming in/out, slide display, full screen, thumbnail and other functions.
