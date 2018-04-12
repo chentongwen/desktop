@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Kitten Editor
+Name[zh_CN]=源码编辑器
+GenericName[zh_CN]=源码编辑器
+Exec=/opt/codemao-offline-client/codemao-offline-client
+Icon=codemao-offline-client
+Comment=Kitten Editor, graphical coding platform, by dragging and dropping the blocks of commands. You can create your own games，stories, animations in an easy and fun way and share your creations with others in the online community.  By dragging the building blocks, you can get a better understanding of the logic behind coding and also have a fun time!
+Comment[zh_CN]=源码编辑器是专为中国少年儿童设计的图形化编程工具。通过拖拽和拼接积木，能轻松做出自己的游戏、故事和动画；简单拼接积木，将编程逻辑可视化，能轻松理解和学习编程原理。还能将作品通过手机或电脑分享给他人，并转化成可执行程序应用于生活中的更多场景。除了基本的编程积木，源码编辑器自带的ICON画板，MU音乐画板，AI实验室，云变量等更多功能将带你探索更广阔的世界。
+Categories=Computer；
+Terminal=false
+Type=Application
