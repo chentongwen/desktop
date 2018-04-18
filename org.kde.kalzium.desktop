@@ -1,7 +1,7 @@
 # KDE Config File
 [Desktop Entry]
 Type=Application
-Exec=kalzium -caption %c %i
+Exec=kalzium -qwindowtitle %c
 Icon=kalzium
 X-DocPath=kalzium/index.html
 Comment=Kalzium is a digital replacement for the periodic table on paper. It is a program that visualizes the Periodic Table of Elements (PSE) and includes basic information about all common elements in the PSE, including elemental symbol, atomic number, atomic mass, possible valance and almost everything.
